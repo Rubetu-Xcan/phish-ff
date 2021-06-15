@@ -1,4 +1,4 @@
-pkg install python2
+pkg install php
 pip install requests
 pip install mechanize
 pkg install zip
